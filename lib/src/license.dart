@@ -1,5 +1,5 @@
 part of core;
 
-class ChartFlutterCore {
+class ChartsFlutterCore {
   static void triggerCore(BuildContext context) {}
 }
