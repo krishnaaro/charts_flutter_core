@@ -1,7 +1,6 @@
-name: syncfusion_flutter_core
-description: Syncfusion Flutter Core is a dependent package for all the Syncfusion Flutter widgets. 
+name: Flutter_core
+description: Flutter chart Core.
 version: 17.4.46
-homepage: https://github.com/syncfusion/flutter-examples
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
