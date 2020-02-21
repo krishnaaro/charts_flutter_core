@@ -1,5 +1,5 @@
 part of core;
 
-class SyncfusionLicense {
-  static void validateLicense(BuildContext context) {}
+class ChartFlutterCore {
+  static void triggerCore(BuildContext context) {}
 }
